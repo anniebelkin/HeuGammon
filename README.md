@@ -2,6 +2,8 @@
 
 **HeuGammon** is a research and development project designed to explore advanced decision-making algorithms in the game of backgammon. The project focuses on implementing, testing, and improving strategies using heuristic functions, reinforcement learning (RL), and search-based techniques.
 
+This project is based on [aknandi/backgammon](https://github.com/aknandi/backgammon).
+
 ## Core Features
 
 ### Game Enhancements
