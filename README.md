@@ -22,7 +22,7 @@
 - **Policy Learning:** Use neural networks and RL algorithms to learn and refine gameplay strategies.
 - **Training AI:** Develop competitive agents capable of advanced decision-making.
 
-- ## Project Requirements
+### Project Requirements
 
 The simulation environment must support the following features:
 
